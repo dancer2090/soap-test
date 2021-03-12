@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "soap": "^0.36.0"
+    "soap": "^0.36.0",
+    "xml-formatter": "^2.4.0"
   }
 }
